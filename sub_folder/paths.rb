@@ -1,0 +1,1 @@
+puts "Path is #{__dir__}/paths.rb"
